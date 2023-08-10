@@ -1,0 +1,14 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf T_monococcum_postimp_filtered.vcf
+	--out fg_plink
+	--plink
+
+After filtering, kept 252 out of 252 Individuals
+Writing PLINK PED and MAP files ... 
+Done.
+After filtering, kept 53642 out of a possible 53642 Sites
+Run Time = 8.00 seconds
