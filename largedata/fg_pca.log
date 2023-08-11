@@ -1,0 +1,27 @@
+PLINK v1.90b4 64-bit (20 Mar 2017)
+Options in effect:
+  --bfile fg_binary
+  --out fg_pca
+  --pca header
+
+Hostname: c1416.swan.hcc.unl.edu
+Working directory: /lustre/work/jyanglab/semra/monococcum_fg/largedata
+Start time: Thu Aug 10 08:23:58 2023
+
+Random number seed: 1691673838
+256738 MB RAM detected; reserving 128369 MB for main workspace.
+53642 variants loaded from .bim file.
+252 people (0 males, 0 females, 252 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to fg_pca.nosex .
+252 phenotype values loaded from .fam.
+Warning: Ignoring phenotypes of missing-sex samples.  If you don't want those
+phenotypes to be ignored, use the --allow-no-sex flag.
+Using up to 55 threads (change this with --threads).
+Before main variant filters, 252 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+53642 variants and 252 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to fg_pca.eigenval and fg_pca.eigenvec .
+
+End time: Thu Aug 10 08:23:59 2023
