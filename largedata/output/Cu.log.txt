@@ -1,0 +1,38 @@
+##
+## GEMMA Version    = 0.98.1 (2018-12-10)
+## Build profile    = 
+## GCC version      = 8.2.0
+## GSL Version      = 2.5
+## Eigen Version    = 3.3.5
+## OpenBlas         = OpenBLAS 0.3.2  - DYNAMIC_ARCH NO_AFFINITY Prescott MAX_THREADS=6
+##   arch           = Prescott
+##   threads        = 3
+##   parallel type  = threaded
+##
+## Command Line Input = /home/jyanglab/semra/Nitrogen_Use_Efficiency/largedata/software/gemma -bfile fg_binary -k output/Cu_kinship.cXX.txt -c pc3.txt -p Cu.txt -lmm 4 -n 2 -o Cu -miss 0.9 -r2 1 -hwe 0 -maf 0.05 
+##
+## Date = Fri Aug 11 08:44:01 2023
+##
+## Summary Statistics:
+## number of total individuals = 252
+## number of analyzed individuals = 252
+## number of covariates = 4
+## number of phenotypes = 1
+## number of total SNPs/var = 53642
+## number of analyzed SNPs/var = 53642
+## REMLE log-likelihood in the null model = 46.9102
+## MLE log-likelihood in the null model = 49.5421
+## pve estimate in the null model = 0.11726
+## se(pve) in the null model = 0.244937
+## vg estimate in the null model = 0.0133582
+## ve estimate in the null model = 0.0364921
+## beta estimate in the null model =   6.57841e-09  -0.352942  -0.180874  0.276371
+## se(beta) =   0.0120337  0.496288  0.333498  0.251096
+##
+## Computation Time:
+## total computation time = 0.568676 min 
+## computation time break down: 
+##      time on eigen-decomposition = 0.000427517 min 
+##      time on calculating UtX = 0.0133515 min 
+##      time on optimization = 0.532684 min 
+##
